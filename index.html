@@ -20,6 +20,57 @@
 </head>
 
 <body>
+  <div class="container">
+    <h1 class="title">Create Account</h1>
+    <!-- Name Input -->
+    <label for="name">Full Name:</label>
+    <input type="text" placeholder="Type your full name">
+
+    <!-- User Name -->
+    <label for="username">Define Username:</label>
+    <input type="text" placeholder="Type your unique username">
+
+    <!-- E-Mail -->
+    <label for="username">Your Email</label>
+    <input type="text" placeholder="Type your email address">
+
+    <!-- Phone Number -->
+    <label for="username">Phone Number</label>
+    <input type="text" placeholder="Type your Phone Number">
+
+    <!-- DOB -->
+    <label for="username">Date of Birth</label>
+    <input type="date">
+
+    <!-- Gender -->
+    <label for="gender">Gender</label>
+    <select id="gender" name="gender" required>
+      <option value="" disabled selected>Select your gender</option>
+      <option value="male">Male</option>
+      <option value="female">Female</option>
+    </select>
+
+    <!-- Message -->
+    <label for="username">Write Yourself</label>
+    <input type="" placeholder="Write here something about yourself">
+
+    <!-- Password -->
+    <label for="username">Password</label>
+    <input type="text" placeholder="Type here a unique and strong password">
+
+    <!-- Confirm Password -->
+    <label for="username">Confirm Password</label>
+    <input type="text" placeholder="retype here a unique and strong password">
+
+    <!-- Terms-Conditions -->
+    <div class="term-cond">
+      <input type="checkbox" id="terms" name="terms" required>
+      <label for="terms">I agree to the terms and conditions</label>
+    </div>
+
+    <!-- Submit BTN -->
+    <button type="submit">Submit</button>
+  </div>
 
   <script src="./scripts/script.js"></script>
 </body>
