@@ -4,7 +4,6 @@
 
 - [Links](#links)
 - [Description](#description)
-- [Screenshot](#screenshot)
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -14,20 +13,16 @@
 
 ## Links
 
-- [GitHub Repository](https://github.com/your-username/your-repo)
-- [Live Demo](https://your-project-live-demo-url.com)
+- [GitHub Repository](https://github.com/aruntutter/js-registration-form)
+- [Live Site Link](https://superb-starship-3bcc0a.netlify.app/)
 
 ## Description
 
 This project showcases a user registration form developed using HTML, CSS, and JavaScript. The form is designed to collect essential user information for account creation.
 
-## Screenshot
-
-![Registration Form Screenshot](screenshots/registration_form.png)
-
 ## Demo
 
-[Live Demo](https://your-project-live-demo-url.com)
+[Live Demo](https://superb-starship-3bcc0a.netlify.app/)
 
 ## Features
 
