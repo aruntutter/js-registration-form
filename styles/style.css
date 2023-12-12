@@ -81,6 +81,7 @@ select {
 span {
   margin-bottom: 15px;
   color: red;
+  font-size: 14px;
 }
 
 .term-cond>label {
